@@ -1,4 +1,4 @@
-Spring Boot backend for an Airbnb clone, providing REST APIs for user management, property listings, and bookings.![AirBnb Schema Design_page-0001](https://github.com/user-attachments/assets/49965787-f735-456f-b1e5-4bcb26930588)
+Spring Boot backend for an Airbnb App, providing REST APIs for user management, property listings, and bookings.![AirBnb Schema Design_page-0001](https://github.com/user-attachments/assets/49965787-f735-456f-b1e5-4bcb26930588)
 
 AirBnb Schema Design
 ![AirBnb Schema Design](https://github.com/user-attachments/assets/a89a4cea-e988-41d4-9098-f0e0d266d32a)
